@@ -8,6 +8,11 @@ Designed for cricket enthusiasts, sports analysts, data analysts, and Power BI l
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](ss1.png)
+![Dashboard Screenshot](ss2.png)
+
 ## 🎯 Objectives
 
 - Analyze Virat Kohli's career performance using interactive dashboards.
@@ -75,12 +80,7 @@ Designed for cricket enthusiasts, sports analysts, data analysts, and Power BI l
 - Interactive Slicers
 - Custom Dashboard Design
 
----
 
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](ss1.png)
-![Dashboard Screenshot](ss2.png)
 
 ---
 
